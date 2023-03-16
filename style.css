@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, span  {
 
 .hero {
 	position: relative;
-	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(images/stu.jpg);
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url('/TaascodeSchool/TaasCode/images/stu.jpg');
 	background-position: center;
 	background-size: cover;
 	height: 85vh;
