@@ -490,5 +490,35 @@ padding-left: 4%;
 }
 
 
+.about-countainer{
+	margin: auto;
+	text-align: center;
+	padding-top: 1.8rem;
+                  }
+                  
+                  .about-countainer h4{
+	font-size: 2rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	 font-weight: 600;
+	 padding-top: 2rem;
+                  }
+                  
+                  
+                  div .box{
+	width: 100%;
+	height: 650px;
+	text-align: center;
+                  }
+                  
+                  .about-countainer p{
+	width: 100%;
+	text-align: center;
+	line-height: 1.9rem;
+	font-weight: 500;
+	font-size: 1.5rem;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+                  
+                  }
+
 
 	                 
